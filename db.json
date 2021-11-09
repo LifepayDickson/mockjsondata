@@ -27,6 +27,24 @@
       "amount": 75.40,
       "billDate": "2018-12-10T13:45:00.000Z",
       "status": "unable to pay"
+    },
+    {
+      "id": 4,
+      "receipt": "https://www.energyaustralia.com.au/modules/custom/ea_bills_explained_gas/images/gas-bill-guide-page-1.jpg",
+      "logo": "https://i.postimg.cc/x8YGbZLG/energyaustralia.png",
+      "company": "Alinta Energy",
+      "amount": 75.40,
+      "billDate": "2018-12-10T13:45:00.000Z",
+      "status": "paid"
+    },
+    {
+      "id": 5,
+      "receipt": "https://www.energyaustralia.com.au/modules/custom/ea_bills_explained_gas/images/gas-bill-guide-page-1.jpg",
+      "logo": "https://i.postimg.cc/x8YGbZLG/energyaustralia.png",
+      "company": "Gas Energy",
+      "amount": 75.40,
+      "billDate": "2018-12-10T13:45:00.000Z",
+      "status": "processing"
     }
   ]
 }
