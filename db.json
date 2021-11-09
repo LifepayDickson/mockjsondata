@@ -4,6 +4,7 @@
     {
       "id": 1,
       "image": "",
+      "company": "Energy Australia",
       "amount": 75.40,
       "billDate": "2018-12-10T13:45:00.000Z",
       "status": "processing" 
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "image": "",
+      "company": "Simply Energy",
       "amount": 75.40,
       "billDate": "2018-12-10T13:45:00.000Z",
       "status": "scheduled"
@@ -18,6 +20,7 @@
     {
       "id": 3,
       "image": "",
+      "company": "Origin",
       "amount": 75.40,
       "billDate": "2018-12-10T13:45:00.000Z",
       "status": "unable to pay"
@@ -25,6 +28,7 @@
     {
       "id": 4,
       "image": "",
+      "company": "Alinta Energy",
       "amount": 75.40,
       "billDate": "2018-12-10T13:45:00.000Z",
       "status": "paid"
